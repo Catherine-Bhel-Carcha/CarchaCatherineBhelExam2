@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "483614898689",
+    "firebase_url": "https://carchacatherinebhelexam2.firebaseio.com/",
+    "project_id": "carchacatherinebhelexam2",
+    "storage_bucket": "carchacatherinebhelexam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483614898689:android:01ffeb4496f24dc3",
+        "android_client_info": {
+          "package_name": "catherinebhel.carcha.iics.carchacatherinebhelexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483614898689-taqcnkjauue4pohs8kcv3g6bje6is746.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "catherinebhel.carcha.iics.carchacatherinebhelexam2",
+            "certificate_hash": "211aad24f53bfa185844e0e79b44486052ef4a0d"
+          }
+        },
+        {
+          "client_id": "483614898689-giggtg1ttj9g4nm1ff27opagtkii0ffu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1WIGuTsvgf8gNSBWwlDwMojZvwcZ1dos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483614898689-giggtg1ttj9g4nm1ff27opagtkii0ffu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

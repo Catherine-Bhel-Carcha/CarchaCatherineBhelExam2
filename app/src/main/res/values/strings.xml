@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practical Exam No. 2</string>
+    <string name="display_average">Display Average</string>
+    <string name="exam1">Exam1:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="first_name">First Name:</string>
+    <string name="exam2">Exam2:</string>
+    <string name="your_average">Your Average</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_exam1_grade">Enter Exam1 Grade</string>
+    <string name="enter_exam2_grade">Enter Exam2 Grade</string>
+</resources>
